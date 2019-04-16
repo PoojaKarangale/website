@@ -1,0 +1,182 @@
+/* your styles go here */
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #E7E7E7;
+	
+}
+
+.my {
+  background-color: #02a2ff;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.my1 {border-radius: 50%;}
+
+.logo{
+	 
+ 
+}
+.card{
+	margin-right:36px;
+	margin-bottom:10px;
+	margin-top:10px;
+	
+}
+.card1{
+	margin-right:4px;
+	margin-bottom:5px;
+	margin-top:0px;
+	background-color:#f9f9f9;
+	display: inline-block;
+	padding:8px;
+}
+
+.card1:hover {
+background-color:#02a2ff;
+}
+.card1:active{
+background-color:#9bc7cc;	
+}
+.card1:focus {
+background-color:#cedee0;
+}
+.card1.pressed{
+	background-color:#cedee0;
+}
+.heart {
+background-color:white;
+}
+.heart:hover {
+background-color:red;
+}
+
+.text{
+	margin:30px:
+	
+}
+
+.box{
+	
+	
+	display: inline-block;
+	
+	
+}
+
+.dummy {
+    margin-top: 100%;
+}
+.in {
+ 
+	background-color:#f7fffe;
+	
+}
+
+
+
+
+
+
+
+
+
+
+.badge1 {
+	margin-bottom:5px;
+  padding: 1px 9px 2px;
+  font-size: 14.025px;
+  font-weight: 0;
+  white-space: nowrap;
+  color: #000000;
+  background-color: #fbfcbd;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+.badge1:hover{
+	background-color: #ffe0a3;
+}
+.badge2 {
+	margin-bottom:5px;
+  padding: 1px 9px 2px;
+  font-size: 14.025px;
+  font-weight: 0;
+  white-space: nowrap;
+  color: #000000;
+  background-color: #ffad8e;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+.badge2:hover{
+	background-color: #ffac91;
+}
+.badge3 {
+	margin-bottom:5px;
+  padding: 1px 9px 2px;
+  font-size: 14.025px;
+  font-weight: 0;
+  white-space: nowrap;
+  color: #000000;
+  background-color: #c6f3ff;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+.badge3:hover{
+	background-color: #92f4da;
+}
+
+.badge:hover {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.badge-error {
+  background-color: #b94a48;
+}
+.badge-error:hover {
+  background-color: #953b39;
+}
+.badge-warning {
+  background-color: #f89406;
+}
+.badge-warning:hover {
+  background-color: #c67605;
+}
+.badge-success {
+  background-color: #468847;
+}
+.badge-success:hover {
+  background-color: #356635;
+}
+.badge-info {
+  background-color: #3a87ad;
+}
+.badge-info:hover {
+  background-color: #2d6987;
+}
+.badge-inverse {
+  background-color: #333333;
+}
+.badge-inverse:hover {
+  background-color: #1a1a1a;
+}
+.container12 {
+ 
+    position:;
+    color:;
+	left:20%;
+    bottom:0px;
+    right:25%;
+    left:50%;
+    margin-left:-150px;
+	
+}
